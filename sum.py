@@ -1,5 +1,5 @@
-a = int(input())
-b =int(input())
+a = 3
+b = 4
 s = a+b 
 print (s)
 
